@@ -14,7 +14,7 @@ body {
 }
 
 .main {
-    background-image: url("assets/images/bg.jpg");
+    background-image: url("Assets/Images/bg.jpg");
     background-position: center center;
     background-size: max(1200px, 100vw);
     background-repeat: no-repeat;
@@ -197,8 +197,4 @@ section.first >div{
 .faqbox span{
     position: relative;
     left: 3vw;
-}
-
-.faqbox svg{
-
 }
